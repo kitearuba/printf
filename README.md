@@ -1,7 +1,3 @@
-Certainly! I'll spruce up the `README.md` with some enhanced formatting and use of emojis and better Markdown elements to make it more visually appealing while still remaining professional and easy to read.
-
-Here’s the updated, cleaner, and nicer version:
-
 ---
 
 # 🖨️ **ft_printf** - _42 School Project_
@@ -144,5 +140,3 @@ Good luck, and happy coding! 🚀
 **chrrodri** - _42 Barcelona_
 
 ---
-
-This `README.md` file is now more visually appealing, uses some emoji to add clarity and engagement, and breaks up information into digestible chunks. Let me know if you'd like to adjust anything further!
