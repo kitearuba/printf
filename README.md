@@ -33,7 +33,9 @@ The **ft_printf** function replicates the functionality of the standard C `print
 
 The project consists of multiple source and header files, including the **libft** library that is integrated with `ft_printf`. Here's a quick look at the directory structure:
 
-```
+```Sure! Here's a polished and more visually engaging version of your `README.md` for the **42 Piscine Repository** project:
+
+
 📦 ft_printf
 ├── 📄 Makefile
 ├── 📁 include
