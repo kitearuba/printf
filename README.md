@@ -1,5 +1,3 @@
-### `README.md` for `ft_printf`
-
 ```markdown
 # 🖨️ ft_printf - 42 Project
 
