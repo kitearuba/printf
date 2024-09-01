@@ -108,7 +108,7 @@ make
 To use `libftprintf.a` in your own project, link it during compilation:
 
 ```bash
-gcc your_program.c -L. -lftprintf -o your_program
+gcc your_program.c -I./include/ -I./libft/ -L. -lftprintf -o your_program 
 ```
 
 ### 4️⃣ **Example Usage**
